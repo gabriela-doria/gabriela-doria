@@ -8,9 +8,9 @@ Estudante de **Engenharia Ambiental na Poli-USP** (formatura prevista em 2028). 
 
 | Projeto | O que é | Status |
 |---|---|---|
-| [**Personal OS com Claude**](https://github.com/gabrielavsdoria/personal-os-claude) | Sistema pessoal de agentes de IA: 16 skills, rotinas agendadas e integração com Gmail, Google Agenda, Drive e Sheets. Organiza faculdade, busca de estágio e rotina. | Em uso diário |
-| [**Radar de estágios**](https://github.com/gabrielavsdoria/personal-os-claude/tree/main/skills/radar-estagios) | Agente que varre portais de vagas, atualiza uma planilha e prioriza processos por nota de 0 a 100. | Em uso diário |
-| [**Rota do Excedente**](https://github.com/gabrielavsdoria/rota-do-excedente) | Protótipo que agrupa restaurantes com comida sobrando em rotas até cozinhas solidárias, no horário de vale das entregas. | [Demo ao vivo](https://gabrielavsdoria.github.io/rota-do-excedente/) |
+| [**Personal OS com Claude**](https://github.com/gabriela-doria/personal-os-claude) | Sistema pessoal de agentes de IA: 16 skills, rotinas agendadas e integração com Gmail, Google Agenda, Drive e Sheets. Organiza faculdade, busca de estágio e rotina. | Em uso diário |
+| [**Radar de estágios**](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios) | Agente que varre portais de vagas, atualiza uma planilha e prioriza processos por nota de 0 a 100. | Em uso diário |
+| [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Protótipo que agrupa restaurantes com comida sobrando em rotas até cozinhas solidárias, no horário de vale das entregas. | [Demo ao vivo](https://gabrielavsdoria.github.io/rota-do-excedente/) |
 
 ## 🧭 Como eu trabalho
 
