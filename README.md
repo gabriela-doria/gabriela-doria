@@ -10,6 +10,7 @@
 |---|---|---|
 | [**Personal OS with Claude**](https://github.com/gabriela-doria/personal-os-claude) | Personal system of AI agents: 16 skills, scheduled routines and integration with Gmail, Google Calendar, Drive and Sheets. Runs my coursework, internship search and routine. | In daily use |
 | [**Internship radar**](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios) | Agent that sweeps job portals, updates a spreadsheet and ranks hiring processes with a 0–100 score. | In daily use |
+| [**Student Project Ops with AI**](https://github.com/gabriela-doria/student-project-ops-ai) | Restructured the shared Drive, access rules and operating model of a ~30-member university extension project with an AI agent and Apps Script: 559 items inventoried, 124 renamed, 33 accounts given access by role. | In use by the team |
 | [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Prototype that groups restaurants with surplus food into routes to community kitchens, in the off-peak window between delivery rushes. | [Live demo](https://gabriela-doria.github.io/rota-do-excedente/) |
 
 ## 🚧 In progress (Nov 2026)

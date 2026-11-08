@@ -10,6 +10,7 @@ Estudante de **Engenharia Ambiental na Poli-USP** (formatura prevista em 2028). 
 |---|---|---|
 | [**Personal OS com Claude**](https://github.com/gabriela-doria/personal-os-claude) | Sistema pessoal de agentes de IA: 16 skills, rotinas agendadas e integração com Gmail, Google Agenda, Drive e Sheets. Organiza faculdade, busca de estágio e rotina. | Em uso diário |
 | [**Radar de estágios**](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios) | Agente que varre portais de vagas, atualiza uma planilha e prioriza processos por nota de 0 a 100. | Em uso diário |
+| [**Student Project Ops with AI**](https://github.com/gabriela-doria/student-project-ops-ai) | Reestruturação do Drive compartilhado, das regras de acesso e do modelo de operação de um projeto de extensão com ~30 membros, com um agente de IA e Apps Script: 559 itens inventariados, 124 renomeados, 33 contas com acesso por papel. | Em uso pelo time |
 | [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Protótipo que agrupa restaurantes com comida sobrando em rotas até cozinhas solidárias, no horário de vale das entregas. | [Demo ao vivo](https://gabriela-doria.github.io/rota-do-excedente/) |
 
 ## 🚧 Em construção (nov/2026)
