@@ -1,32 +1,39 @@
-# Oi, eu sou a Gabriela Dória 👋
+# Hi, I'm Gabriela Dória 👋
 
-Estudante de **Engenharia Ambiental na Poli-USP** (formatura prevista em 2028). Uso IA para resolver problemas de **operação, gestão e logística**: desenho o processo, construo o agente ou a automação e meço se funcionou.
+**English** · [Português](README.pt-BR.md)
 
-*Environmental Engineering student at Poli-USP (São Paulo). I build AI agents and automations to solve operations and management problems.*
+**Environmental Engineering student at Poli-USP** in São Paulo (expected graduation 2028). I use AI to solve **operations, management and logistics** problems: I map the process, build the agent or automation, and measure whether it worked.
 
-## 🔧 O que eu construo com IA
+## 🔧 What I build with AI
 
-| Projeto | O que é | Status |
+| Project | What it is | Status |
 |---|---|---|
-| [**Personal OS com Claude**](https://github.com/gabriela-doria/personal-os-claude) | Sistema pessoal de agentes de IA: 16 skills, rotinas agendadas e integração com Gmail, Google Agenda, Drive e Sheets. Organiza faculdade, busca de estágio e rotina. | Em uso diário |
-| [**Radar de estágios**](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios) | Agente que varre portais de vagas, atualiza uma planilha e prioriza processos por nota de 0 a 100. | Em uso diário |
-| [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Protótipo que agrupa restaurantes com comida sobrando em rotas até cozinhas solidárias, no horário de vale das entregas. | [Demo ao vivo](https://gabriela-doria.github.io/rota-do-excedente/) |
+| [**Personal OS with Claude**](https://github.com/gabriela-doria/personal-os-claude) | Personal system of AI agents: 16 skills, scheduled routines and integration with Gmail, Google Calendar, Drive and Sheets. Runs my coursework, internship search and routine. | In daily use |
+| [**Internship radar**](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios) | Agent that sweeps job portals, updates a spreadsheet and ranks hiring processes with a 0–100 score. | In daily use |
+| [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Prototype that groups restaurants with surplus food into routes to community kitchens, in the off-peak window between delivery rushes. | [Live demo](https://gabriela-doria.github.io/rota-do-excedente/) |
 
-## 🧭 Como eu trabalho
+## 🚧 In progress (Nov 2026)
 
-- **Problema antes da ferramenta:** começo pelo processo e pela métrica, depois escolho a IA.
-- **Humano no loop:** os agentes propõem, eu valido. Nada é enviado ou apagado sem ok.
-- **Hipótese marcada como hipótese:** número sem fonte não entra como fato.
-- **Iterar rápido:** o Radar de estágios saiu de uma matriz manual e chegou à v5 em outubro de 2026.
+- **Weekly hours report with AI (Make + Gemini)** for a USP extension project, built first on a test copy of the spreadsheet, with no student names sent to the AI.
+- **Partner-restaurant copilot:** a demo that groups fictitious reviews by theme with an LLM and suggests 3 actions for the week.
 
-## 🧰 Ferramentas
+They move to the table above once published, with a measured result.
 
-Claude (skills, agentes, conectores MCP, tarefas agendadas) · ChatGPT · Perplexity · Google Apps Script · Google Sheets · HTML/JavaScript · Python · VS Code · Git
+## 🧭 How I work
 
-## 🌱 Fora do código
+- **Problem before tool:** I start from the process and the metric, then pick the AI.
+- **Human in the loop:** agents propose, I approve. Nothing is sent or deleted without my ok.
+- **Hypotheses labeled as hypotheses:** a number without a source doesn't go in as fact.
+- **Iterate fast:** the internship radar went from a manual matrix to v5 in October 2026.
 
-- **Poli Social** (consultoria de gestão da Poli): consultora, gerente de projeto e diretora de Projetos.
-- **Areia Viva** (extensão USP): voluntária.
-- **Chocolates Megève**: marca de chocolate artesanal que criei e toquei sozinha (2020–2023).
+## 🧰 Tools
+
+Claude (skills, agents, MCP connectors, scheduled tasks) · ChatGPT · Perplexity · Google Apps Script · Google Sheets · HTML/JavaScript · Python · VS Code · Git
+
+## 🌱 Beyond code
+
+- **Poli Social** (Poli's management consulting group): consultant, project manager and Director of Projects.
+- **Areia Viva** (USP extension project): volunteer.
+- **Chocolates Megève**: artisanal chocolate brand I created and ran on my own (2020–2023).
 
 📫 [LinkedIn](https://www.linkedin.com/in/gabriela-vs-doria/)
