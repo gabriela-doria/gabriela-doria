@@ -1,40 +1,42 @@
-# Hi, I'm Gabriela Dória 👋
+# Oi, eu sou a Gabriela Dória 👋
 
-**English** · [Português](README.pt-BR.md)
+**Português** · [English](README.en.md)
 
-**Environmental Engineering student at Poli-USP** in São Paulo (expected graduation 2028). I use AI to solve **operations, management and logistics** problems: I map the process, build the agent or automation, and measure whether it worked.
+- Estudante de **Engenharia Ambiental na Poli-USP** (formatura prevista em 2028).
+- Modelo problemas e decido com dados: **otimização, simulação e decisão com vários critérios**.
+- Uso **IA para construir coisas que funcionam** e explico o resultado para quem não é da área.
 
-## 🔧 What I build with AI
+## 🔧 Projetos em destaque
 
-| Project | What it is | Status |
+| Projeto | O que é | Resultado |
 |---|---|---|
-| [**Personal OS with Claude**](https://github.com/gabriela-doria/personal-os-claude) | Personal system of AI agents: 16 skills, scheduled routines and integration with Gmail, Google Calendar, Drive and Sheets. Runs my coursework, internship search and routine. | In daily use |
-| [**Internship radar**](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios) | Agent that sweeps job portals, updates a spreadsheet and ranks hiring processes with a 0–100 score. | In daily use |
-| [**Student Project Ops with AI**](https://github.com/gabriela-doria/student-project-ops-ai) | Restructured the shared Drive, access rules and operating model of a ~30-member university extension project with an AI agent and Apps Script: 559 items inventoried, 124 renamed, 33 accounts given access by role. | In use by the team |
-| [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Prototype that groups restaurants with surplus food into routes to community kitchens, in the off-peak window between delivery rushes. | [Live demo](https://gabriela-doria.github.io/rota-do-excedente/) |
+| [**Campus de energia**](https://github.com/gabriela-doria/campus-de-energia) | Simulação hora a hora de um parque eólico e solar fictício, com programação linear, preço-sombra e matriz de decisão com pesos. | Com um data center ao lado, o parque fictício aproveita 100% da energia em vez de 64%. |
+| [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Algoritmo de rotas que leva comida excedente de restaurantes a cozinhas solidárias. [Demo ao vivo](https://gabriela-doria.github.io/rota-do-excedente/). | No exemplo fictício, 16 restaurantes viram 6 rotas e 128 kg resgatados. |
+| [**Personal OS com Claude**](https://github.com/gabriela-doria/personal-os-claude) | Sistema de 16 agentes de IA que organiza faculdade, busca de estágio e rotina. Inclui o [radar de estágios](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios), que dá nota de 0 a 100 a cada vaga. | 12 processos priorizados, 273 e-mails arquivados e 163 arquivos renomeados (contado em 29/10/2026). |
+| [**Operações de um projeto de extensão com IA**](https://github.com/gabriela-doria/student-project-ops-ai) | Reestruturação do Drive, dos acessos e do funcionamento de um projeto com cerca de 30 estudantes, escolhida com uma matriz de critérios com pesos e vetos. | 559 itens inventariados, 124 renomeados e 33 contas com acesso por papel. |
 
-## 🚧 In progress (Nov 2026)
+## 🚧 Em construção (nov/2026)
 
-- **Weekly hours report with AI (Make + Gemini)** for a USP extension project, built first on a test copy of the spreadsheet, with no student names sent to the AI.
-- **Partner-restaurant copilot:** a demo that groups fictitious reviews by theme with an LLM and suggests 3 actions for the week.
+- **Relatório semanal de horas com IA (Make + Gemini)** para um projeto de extensão da USP, montado primeiro numa cópia de teste da planilha, sem nomes de alunos enviados à IA.
+- **Copiloto do restaurante parceiro:** demo que agrupa avaliações fictícias por tema com um LLM e sugere 3 ações da semana.
 
-They move to the table above once published, with a measured result.
+Entram na tabela acima quando estiverem publicados, com resultado medido.
 
-## 🧭 How I work
+## 🧭 Como eu trabalho
 
-- **Problem before tool:** I start from the process and the metric, then pick the AI.
-- **Human in the loop:** agents propose, I approve. Nothing is sent or deleted without my ok.
-- **Hypotheses labeled as hypotheses:** a number without a source doesn't go in as fact.
-- **Iterate fast:** the internship radar went from a manual matrix to v5 in October 2026.
+- **Problema antes da ferramenta:** começo pelo processo e pela métrica, depois escolho a IA.
+- **Humano no loop:** os agentes propõem, eu valido. Nada é enviado ou apagado sem ok.
+- **Hipótese marcada como hipótese:** número sem fonte não entra como fato.
+- **Iterar rápido:** o Radar de estágios saiu de uma matriz manual e chegou à v5 em outubro de 2026.
 
-## 🧰 Tools
+## 🧰 Ferramentas
 
-Claude (skills, agents, MCP connectors, scheduled tasks) · ChatGPT · Perplexity · Google Apps Script · Google Sheets · HTML/JavaScript · Python · VS Code · Git
+Claude (skills, agentes, conectores MCP, tarefas agendadas) · ChatGPT · Perplexity · Google Apps Script · Google Sheets · HTML/JavaScript · Python · VS Code · Git
 
-## 🌱 Beyond code
+## 🌱 Fora do código
 
-- **Poli Social** (Poli's management consulting group): consultant, project manager and Director of Projects.
-- **Areia Viva** (USP extension project): volunteer.
-- **Chocolates Megève**: artisanal chocolate brand I created and ran on my own (2020–2023).
+- **Poli Social** (consultoria de gestão da Poli): consultora, gerente de projeto e diretora de Projetos.
+- **Areia Viva** (extensão USP): voluntária.
+- **Chocolates Megève**: marca de chocolate artesanal que criei e toquei sozinha (2020–2023).
 
 📫 [LinkedIn](https://www.linkedin.com/in/gabriela-vs-doria/)
