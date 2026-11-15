@@ -1,12 +1,12 @@
-# Oi, eu sou a Gabriela Dória 👋
+# Apresentação pessoal
 
 **Português** · [English](README.en.md)
 
 - Estudante de **Engenharia Ambiental na Poli-USP** (formatura prevista em 2028).
-- Modelo problemas e decido com dados: **otimização, simulação e decisão com vários critérios**.
-- Uso **IA para construir coisas que funcionam** e explico o resultado para quem não é da área.
+- Modelagem problemas e decisão com dados: **otimização, simulação e decisão com vários critérios**.
+- Uso de **IA para construir coisas que funcionam** e explicações do resultado para quem não é da área.
 
-## 🔧 Projetos em destaque
+##  Projetos em destaque
 
 | Projeto | O que é | Resultado |
 |---|---|---|
