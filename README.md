@@ -2,7 +2,7 @@
 
 **Português** · [English](README.en.md)
 
-Estudante de Engenharia Ambiental na Poli-USP, em São Paulo (formatura prevista em 2028). Gosto de achar o gargalo de um problema de operações, propor uma solução que dure e medir se ela funcionou. Para isso uso dados (otimização, simulação e decisão com vários critérios) e IA para construir ferramentas que rodam no dia a dia.
+Estudante de Engenharia Ambiental na Poli-USP, em São Paulo (formatura em 2028). Gosto de encontrar o gargalo de um problema, construir a solução e medir se ela funcionou. Aqui estão os projetos em que fiz isso com dados, automação e IA.
 
 ## Projetos em destaque
 

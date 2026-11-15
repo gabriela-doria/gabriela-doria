@@ -2,7 +2,7 @@
 
 [Português](README.md) · **English**
 
-Environmental Engineering student at Poli-USP in São Paulo (expected graduation 2028). I like to find the bottleneck in an operations problem, propose a solution that lasts and measure whether it worked. To do that I use data (optimization, simulation and multi-criteria decision-making) and AI to build tools that run day to day.
+Environmental Engineering student at Poli-USP, in São Paulo (graduating 2028). I like finding the bottleneck in a problem, building the fix and measuring whether it worked. These are the projects where I did that with data, automation and AI.
 
 ## Featured projects
 
@@ -10,7 +10,7 @@ Environmental Engineering student at Poli-USP in São Paulo (expected graduation
 |---|---|---|
 | [**Campus de energia**](https://github.com/gabriela-doria/campus-de-energia) | Hour-by-hour simulation of a fictitious wind and solar park, with linear programming, shadow prices and a weighted decision matrix (README in Portuguese). | With a data center next door, the fictitious park uses 100% of its energy instead of 64%. |
 | [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Routing algorithm that takes surplus food from restaurants to community kitchens. [Live demo](https://gabriela-doria.github.io/rota-do-excedente/). | In the fictitious example, 16 restaurants become 6 routes and 128 kg rescued. |
-| [**Personal OS with Claude**](https://github.com/gabriela-doria/personal-os-claude) | System of 16 AI agents that runs my coursework, internship search and routine. Includes the [internship radar](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios), which scores each opening from 0 to 100. | 273 emails archived and 163 files renamed (counted on 29/10/2026). |
+| [**Personal OS with Claude**](https://github.com/gabriela-doria/personal-os-claude) | System of 16 AI agents that runs my coursework, internship search and routine. Includes the [internship radar](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios), which scores each opening from 0 to 100. | 273 emails archived and 163 files renamed (counted on 29 Oct 2026). |
 | [**Student Project Ops with AI**](https://github.com/gabriela-doria/student-project-ops-ai) | Restructuring of the Drive, access rules and operating model of a project with about 30 students, chosen with a weighted decision matrix with vetoes. | 559 items inventoried, 124 renamed and 33 accounts given access by role. |
 
 ## In progress (Nov 2026)
@@ -33,7 +33,7 @@ Claude (skills, agents, MCP connectors, scheduled tasks), ChatGPT, Perplexity, G
 
 ## Beyond code
 
-- **Poli Social** (Poli's management consulting group): consultant, project manager and Director of Projects.
+- **Poli Social** (Poli's management consulting group): consultant, project manager and Project Director.
 - **Areia Viva** (USP extension project): volunteer.
 - **Chocolates Megève**: artisanal chocolate brand I created and ran on my own (2020–2023).
 
