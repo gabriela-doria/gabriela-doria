@@ -4,6 +4,8 @@
 
 Environmental Engineering student at Poli-USP, in São Paulo (graduating 2028). I like finding the bottleneck in a problem, building the fix and measuring whether it worked. These are the projects where I did that with data, automation and AI.
 
+**AI portfolio (one page, in Portuguese):** https://gabriela-doria.github.io/ai-portfolio/
+
 ## Featured projects
 
 | Project | What it is | Result |
@@ -11,13 +13,14 @@ Environmental Engineering student at Poli-USP, in São Paulo (graduating 2028). 
 | [**Campus de energia**](https://github.com/gabriela-doria/campus-de-energia) | Hour-by-hour simulation of a fictitious wind and solar park, with linear programming, shadow prices and a weighted decision matrix (README in Portuguese). | With a data center next door, the fictitious park uses 100% of its energy instead of 64%. |
 | [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Routing algorithm that takes surplus food from restaurants to community kitchens. [Live demo](https://gabriela-doria.github.io/rota-do-excedente/). | In the fictitious example, 16 restaurants become 6 routes and 128 kg rescued. |
 | [**Personal OS with Claude**](https://github.com/gabriela-doria/personal-os-claude) | System of 16 AI agents that runs my coursework, internship search and routine. Includes the [internship radar](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios), which scores each opening from 0 to 100. | 273 emails archived and 163 files renamed (counted on 29 Oct 2026). |
-| [**Student Project Ops with AI**](https://github.com/gabriela-doria/student-project-ops-ai) | Restructuring of the Drive, access rules and operating model of a project with about 30 students, chosen with a weighted decision matrix with vetoes. | 559 items inventoried, 124 renamed and 33 accounts given access by role. |
+| [**Student Project Ops with AI**](https://github.com/gabriela-doria/student-project-ops-ai) | Restructuring of the Drive, access rules and operating model of a project with 25 students, 1 professor and 2 PhD students, chosen with a weighted decision matrix with vetoes. | 559 items inventoried, 124 renamed and 33 accounts given access by role. |
 | [**Spatial analysis in QGIS**](https://github.com/gabriela-doria/analise-espacial-qgis-sp) | Four maps on metro access, income and built area in São Paulo, made for the GIS course project at Poli (PTR3312). The repository holds the layers, the maps and the redrawing script (README in Portuguese). | In 46 of the 96 districts, nobody lives within 800 m of a metro station. |
 
-## In progress (Nov 2026)
+## Next projects (planned, no date yet)
 
-- **Weekly hours report with AI (Make + Gemini)** for a USP extension project, built first on a test copy of the spreadsheet, with no student names sent to the AI.
-- **Partner-restaurant copilot:** a demo that groups fictitious reviews by theme with an LLM and suggests 3 actions for the week.
+- **Meeting notes become tasks:** Make and Gemini; the notes go in, tasks come out with an owner and a deadline.
+- **Two models, one checked answer:** Claude coordinates, Gemini reads long PDFs and the two answers are compared.
+- **JSON endpoint for a student project's app:** Apps Script published as a JSON endpoint, so the app reads spreadsheet data with no server of its own.
 
 They move to the table above once published, with a measured result.
 

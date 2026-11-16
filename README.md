@@ -4,6 +4,8 @@
 
 Estudante de Engenharia Ambiental na Poli-USP, em São Paulo (formatura em 2028). Gosto de encontrar o gargalo de um problema, construir a solução e medir se ela funcionou. Aqui estão os projetos em que fiz isso com dados, automação e IA.
 
+**Portfólio de IA (página única):** https://gabriela-doria.github.io/ai-portfolio/
+
 ## Projetos em destaque
 
 | Projeto | O que é | Resultado |
@@ -11,13 +13,14 @@ Estudante de Engenharia Ambiental na Poli-USP, em São Paulo (formatura em 2028)
 | [**Campus de energia**](https://github.com/gabriela-doria/campus-de-energia) | Simulação hora a hora de um parque eólico e solar fictício, com programação linear, preço-sombra e matriz de decisão com pesos. | Com um data center ao lado, o parque fictício aproveita 100% da energia em vez de 64%. |
 | [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Algoritmo de rotas que leva comida excedente de restaurantes a cozinhas solidárias. [Demo ao vivo](https://gabriela-doria.github.io/rota-do-excedente/). | No exemplo fictício, 16 restaurantes viram 6 rotas e 128 kg resgatados. |
 | [**Personal OS com Claude**](https://github.com/gabriela-doria/personal-os-claude) | Sistema de 16 agentes de IA que organiza faculdade, busca de estágio e rotina. Inclui o [radar de estágios](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios), que dá nota de 0 a 100 a cada vaga. | 273 e-mails arquivados e 163 arquivos renomeados (contado em 29/10/2026). |
-| [**Operações de um projeto de extensão com IA**](https://github.com/gabriela-doria/student-project-ops-ai) | Reestruturação do Drive, dos acessos e do funcionamento de um projeto com cerca de 30 estudantes, escolhida com uma matriz de critérios com pesos e vetos. | 559 itens inventariados, 124 renomeados e 33 contas com acesso por papel. |
+| [**Operações de um projeto de extensão com IA**](https://github.com/gabriela-doria/student-project-ops-ai) | Reestruturação do Drive, dos acessos e do funcionamento de um projeto com 25 alunos, 1 professor e 2 doutorandos, escolhida com uma matriz de critérios com pesos e vetos. | 559 itens inventariados, 124 renomeados e 33 contas com acesso por papel. |
 | [**Análise espacial no QGIS**](https://github.com/gabriela-doria/analise-espacial-qgis-sp) | Quatro mapas sobre acesso ao metrô, renda e área construída em São Paulo, feitos no trabalho prático de SIG da Poli (PTR3312). Repositório com as camadas, os mapas e o script de redesenho. | Em 46 dos 96 distritos, ninguém mora a até 800 m de uma estação de metrô. |
 
-## Em construção (nov/2026)
+## Próximos projetos (planejados, sem data)
 
-- **Relatório semanal de horas com IA (Make + Gemini)** para um projeto de extensão da USP, montado primeiro numa cópia de teste da planilha, sem nomes de alunos enviados à IA.
-- **Copiloto do restaurante parceiro:** demo que agrupa avaliações fictícias por tema com um LLM e sugere 3 ações da semana.
+- **Ata de reunião vira tarefas:** Make e Gemini; a ata entra, as tarefas saem com responsável e prazo.
+- **Dois modelos, uma resposta conferida:** o Claude coordena, o Gemini lê PDFs longos e as respostas dos dois são comparadas.
+- **Endpoint JSON para o app de um projeto de extensão:** Apps Script publicado como endpoint JSON, para o app ler dados da planilha sem servidor próprio.
 
 Entram na tabela acima quando estiverem publicados, com resultado medido.
 
