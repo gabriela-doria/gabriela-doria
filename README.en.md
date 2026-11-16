@@ -16,13 +16,13 @@ Environmental Engineering student at Poli-USP, in São Paulo (graduating 2028). 
 | [**Student Project Ops with AI**](https://github.com/gabriela-doria/student-project-ops-ai) | Restructuring of the Drive, access rules and operating model of a project with 25 students, 1 professor and 2 PhD students, chosen with a weighted decision matrix with vetoes. | 559 items inventoried, 124 renamed and 33 accounts given access by role. |
 | [**Spatial analysis in QGIS**](https://github.com/gabriela-doria/analise-espacial-qgis-sp) | Four maps on metro access, income and built area in São Paulo, made for the GIS course project at Poli (PTR3312). The repository holds the layers, the maps and the redrawing script (README in Portuguese). | In 46 of the 96 districts, nobody lives within 800 m of a metro station. |
 
-## Next projects (planned, no date yet)
+## Next projects (planned)
 
-- **Meeting notes become tasks:** Make and Gemini; the notes go in, tasks come out with an owner and a deadline.
-- **Two models, one checked answer:** Claude coordinates, Gemini reads long PDFs and the two answers are compared.
-- **JSON endpoint for a student project's app:** Apps Script published as a JSON endpoint, so the app reads spreadsheet data with no server of its own.
+Not built yet. They move to the table above once published, with a measured result.
 
-They move to the table above once published, with a measured result.
+- **Meeting minutes into a task list (Make + Gemini):** Gemini reads the minutes and pulls out decisions, owners and deadlines; Make sends each task to the tracking spreadsheet.
+- **Claude coordinates, Gemini reads the long PDF:** a two-model workflow where Claude splits the work and checks the result, and Gemini summarizes large documents.
+- **Apps Script as a JSON endpoint:** the spreadsheet of a USP extension project serves data to the project's app through a read-only endpoint, with no server of its own.
 
 ## How I work
 

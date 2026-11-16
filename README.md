@@ -16,13 +16,13 @@ Estudante de Engenharia Ambiental na Poli-USP, em São Paulo (formatura em 2028)
 | [**Operações de um projeto de extensão com IA**](https://github.com/gabriela-doria/student-project-ops-ai) | Reestruturação do Drive, dos acessos e do funcionamento de um projeto com 25 alunos, 1 professor e 2 doutorandos, escolhida com uma matriz de critérios com pesos e vetos. | 559 itens inventariados, 124 renomeados e 33 contas com acesso por papel. |
 | [**Análise espacial no QGIS**](https://github.com/gabriela-doria/analise-espacial-qgis-sp) | Quatro mapas sobre acesso ao metrô, renda e área construída em São Paulo, feitos no trabalho prático de SIG da Poli (PTR3312). Repositório com as camadas, os mapas e o script de redesenho. | Em 46 dos 96 distritos, ninguém mora a até 800 m de uma estação de metrô. |
 
-## Próximos projetos (planejados, sem data)
+## Próximos projetos (planejados)
 
-- **Ata de reunião vira tarefas:** Make e Gemini; a ata entra, as tarefas saem com responsável e prazo.
-- **Dois modelos, uma resposta conferida:** o Claude coordena, o Gemini lê PDFs longos e as respostas dos dois são comparadas.
-- **Endpoint JSON para o app de um projeto de extensão:** Apps Script publicado como endpoint JSON, para o app ler dados da planilha sem servidor próprio.
+Ainda não construídos. Entram na tabela acima quando estiverem publicados, com resultado medido.
 
-Entram na tabela acima quando estiverem publicados, com resultado medido.
+- **Ata de reunião vira lista de tarefas (Make + Gemini):** o Gemini lê a ata e separa decisões, responsáveis e prazos; o Make leva cada tarefa para a planilha de acompanhamento.
+- **Claude coordena, Gemini lê o PDF longo:** um fluxo com dois modelos, em que o Claude divide o trabalho e confere o resultado, e o Gemini resume documentos grandes.
+- **Apps Script como endpoint JSON:** a planilha de um projeto de extensão da USP entrega dados ao app do projeto por um endpoint de leitura, sem servidor próprio.
 
 ## Como eu trabalho
 
