@@ -12,6 +12,7 @@ Estudante de Engenharia Ambiental na Poli-USP, em São Paulo (formatura em 2028)
 | [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Algoritmo de rotas que leva comida excedente de restaurantes a cozinhas solidárias. [Demo ao vivo](https://gabriela-doria.github.io/rota-do-excedente/). | No exemplo fictício, 16 restaurantes viram 6 rotas e 128 kg resgatados. |
 | [**Personal OS com Claude**](https://github.com/gabriela-doria/personal-os-claude) | Sistema de 16 agentes de IA que organiza faculdade, busca de estágio e rotina. Inclui o [radar de estágios](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios), que dá nota de 0 a 100 a cada vaga. | 273 e-mails arquivados e 163 arquivos renomeados (contado em 29/10/2026). |
 | [**Operações de um projeto de extensão com IA**](https://github.com/gabriela-doria/student-project-ops-ai) | Reestruturação do Drive, dos acessos e do funcionamento de um projeto com cerca de 30 estudantes, escolhida com uma matriz de critérios com pesos e vetos. | 559 itens inventariados, 124 renomeados e 33 contas com acesso por papel. |
+| [**Análise espacial no QGIS**](https://github.com/gabriela-doria/analise-espacial-qgis-sp) | Quatro mapas sobre acesso ao metrô, renda e área construída em São Paulo, feitos no trabalho prático de SIG da Poli (PTR3312). Repositório com as camadas, os mapas e o script de redesenho. | Em 46 dos 96 distritos, ninguém mora a até 800 m de uma estação de metrô. |
 
 ## Em construção (nov/2026)
 

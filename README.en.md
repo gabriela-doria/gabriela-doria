@@ -12,6 +12,7 @@ Environmental Engineering student at Poli-USP, in São Paulo (graduating 2028). 
 | [**Rota do Excedente**](https://github.com/gabriela-doria/rota-do-excedente) | Routing algorithm that takes surplus food from restaurants to community kitchens. [Live demo](https://gabriela-doria.github.io/rota-do-excedente/). | In the fictitious example, 16 restaurants become 6 routes and 128 kg rescued. |
 | [**Personal OS with Claude**](https://github.com/gabriela-doria/personal-os-claude) | System of 16 AI agents that runs my coursework, internship search and routine. Includes the [internship radar](https://github.com/gabriela-doria/personal-os-claude/tree/main/skills/radar-estagios), which scores each opening from 0 to 100. | 273 emails archived and 163 files renamed (counted on 29 Oct 2026). |
 | [**Student Project Ops with AI**](https://github.com/gabriela-doria/student-project-ops-ai) | Restructuring of the Drive, access rules and operating model of a project with about 30 students, chosen with a weighted decision matrix with vetoes. | 559 items inventoried, 124 renamed and 33 accounts given access by role. |
+| [**Spatial analysis in QGIS**](https://github.com/gabriela-doria/analise-espacial-qgis-sp) | Four maps on metro access, income and built area in São Paulo, made for the GIS course project at Poli (PTR3312). The repository holds the layers, the maps and the redrawing script (README in Portuguese). | In 46 of the 96 districts, nobody lives within 800 m of a metro station. |
 
 ## In progress (Nov 2026)
 
