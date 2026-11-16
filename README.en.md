@@ -4,7 +4,7 @@
 
 Environmental Engineering student at Poli-USP, in São Paulo (graduating 2028). I like finding the bottleneck in a problem, building the fix and measuring whether it worked. These are the projects where I did that with data, automation and AI.
 
-**AI portfolio (one page, in Portuguese):** https://gabriela-doria.github.io/ai-portfolio/
+**AI portfolio (one page):** https://gabriela-doria.github.io/ai-portfolio/#en
 
 ## Featured projects
 
