@@ -4,9 +4,9 @@
 
 I'm an Environmental Engineering student at Poli-USP, in São Paulo (graduating 2028), interested in solving problems that connect processes, data, technology and business decisions. I like spotting opportunities for improvement, building solutions and assessing their results. This portfolio brings together projects where I applied that approach using data analysis, automation and artificial intelligence.
 
-### [See my data, automation and AI projects →](https://gabriela-doria.github.io/ai-portfolio/#en)
+### [See my portfolio: managing by metrics, data and AI →](https://gabriela-doria.github.io/ai-portfolio/#en)
 
-*A visual portfolio with the solutions I built, the problems they address and the results achieved.*
+*A visual portfolio with the problems I tackled, the solutions I built and the measured results, in management and in technology.*
 
 ## Featured projects
 

@@ -4,9 +4,9 @@
 
 Sou estudante de Engenharia Ambiental na Poli-USP, em São Paulo (formatura em 2028), e tenho interesse em resolver problemas que conectam processos, dados, tecnologia e decisões de negócio. Gosto de identificar oportunidades de melhoria, construir soluções e avaliar seus resultados. Neste portfólio, reúno projetos em que apliquei esse raciocínio com análise de dados, automação e inteligência artificial.
 
-### [Conheça meus projetos de dados, automação e IA →](https://gabriela-doria.github.io/ai-portfolio/)
+### [Conheça meu portfólio: gestão por indicadores, dados e IA →](https://gabriela-doria.github.io/ai-portfolio/)
 
-*Um portfólio visual com as soluções que desenvolvi, os problemas que elas resolvem e os resultados obtidos.*
+*Um portfólio visual com os problemas que enfrentei, as soluções que construí e os resultados medidos, na gestão e na tecnologia.*
 
 ## Projetos em destaque
 
